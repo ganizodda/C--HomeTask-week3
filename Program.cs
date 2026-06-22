@@ -58,8 +58,13 @@
 // list.Clear();
 
 
-
 //Task8
+// List<int> numbers = new List<int> {1,2,3,4,5};
+// int max = numbers.Max();
+// int min = numbers.Min();
+// System.Console.WriteLine("Max: "+max+" "+"Min: "+min);
+
+//Task9
 // List<int> list = new List<int>();
 // list.RemoveAll(x => x % 2 == 0);
 
